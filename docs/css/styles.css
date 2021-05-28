@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+
+body{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+    background-color:#ffeda7;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.row-header{
+    margin:0px auto;
+    padding-top: 40px;
+    padding-bottom:20px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    border-bottom: 1px ridge black;
+    min-height:200px;
+}
+
+.footer{
+    background-color: #fdd776;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+.jumbotron{
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background-image: url(../img/jumbotron.png);
+    color:floralwhite;
+    background-size: cover;
+    min-height: 640px;
+    font-family: 'Architects Daughter', cursive;
+    font-size: 400%;
+}
+
+h1{
+    font-size: 2em;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.design-carousel{
+    background-color: #967e1d;
+    text-align: center;
+    height: 830px;
+    padding-top: 50px;
+}
+
+.technology-carousel{
+    background-color: #967e1d;
+    text-align: center;
+    height: 300px;
+    color: white;
+}
+
+.navbar-dark{
+    background-color: #35342f;
+}
+
+.row-content-design {
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    min-height:200px;
+}
